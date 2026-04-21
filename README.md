@@ -52,6 +52,7 @@ thesis_project/
 ├── notebooks/
 │   └── 01_data_exploration_labeling.ipynb
 ├── LICENSE
+├── requirements.txt
 └── README.md
 ```
 ---
