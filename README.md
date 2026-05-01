@@ -82,8 +82,7 @@ data/findhr_synthetic_cv_dataset-ver20251203/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd thesis_project
+git clone https://github.com/Annika-Loos/Fairness-CV-Screening.git
 
 # Create and activate virtual environment
 python -m venv .venv
